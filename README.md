@@ -22,7 +22,7 @@ Thriving in collaborative environments, I believe in the power of effective team
 ### **✨ Excited for the Future:**
 I'm excited about the possibility of connecting with like-minded professionals, exploring new opportunities, and contributing to exciting developments in the tech landscape. Let's connect and embark on this journey together!
 
-📫 How to reach me **ons.khiari@esprit.tn**
+📫 How to reach me **onskhiari2001@gmail.com**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216658115-017b0125-1bba-409d-b789-c04362c0adfb.gif" alt="GIF">
