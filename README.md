@@ -4,7 +4,7 @@
 <h3 align="center">Passionate Software Engineering Student | ESPRIT | Transforming Ideas into Innovative Solutions | Open to Internships and Collaborations</h3>
 
 <div align="center">
-  <img src="" alt="GIF">
+  <!--<img src="" alt="GIF"> -->
 </div>
 
 ### **🚀 Professional Journey:**
