@@ -1,10 +1,10 @@
-![Banner](https://github.com/ons-khiari/ons-khiari/raw/main/banner.gif)
+![Banner](https://github.com/ons-khiari/ons-khiari/blob/main/bannerons.gif?raw=true)
 
 <h1 align="center">Hi 👋, I'm Ons Khiari</h1>
 <h3 align="center">Passionate Software Engineering Student | ESPRIT | Transforming Ideas into Innovative Solutions | Open to Internships and Collaborations</h3>
 
 <div align="center">
-  <img src="https://github.com/ons-khiari/ons-khiari/blob/main/bannerons.gif?raw=true" alt="GIF">
+  <img src="" alt="GIF">
 </div>
 
 ### **🚀 Professional Journey:**
