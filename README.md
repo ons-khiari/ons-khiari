@@ -13,12 +13,6 @@ Currently open to internship opportunities, I am eager to contribute my educatio
 ### **🛠️ Technologies & Skills:**
 My coursework at ESPRIT has equipped me with a diverse skill set, including Symfony, JavaScript, Java, ReactJS, NodeJS, Angular, and Spring Boot. I am well-prepared for real-world software development challenges.
 
-### **💡 Projects:**
-I've honed my problem-solving and coding skills through hands-on projects like GGaming, Ecommerce Accessoires, and Gestion Foyer, demonstrating a practical approach to transforming concepts into robust solutions.
-
-### **🤝 Collaboration and Teamwork:**
-Thriving in collaborative environments, I believe in the power of effective teamwork to drive innovation. My academic journey at ESPRIT has been marked by active engagement in team projects, polishing my ability to communicate and collaborate for superior outcomes.
-
 ### **✨ Excited for the Future:**
 I'm excited about the possibility of connecting with like-minded professionals, exploring new opportunities, and contributing to exciting developments in the tech landscape. Let's connect and embark on this journey together!
 
@@ -34,7 +28,6 @@ I'm excited about the possibility of connecting with like-minded professionals, 
 <a href="https://linkedin.com/in/ons-khiari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ons-khiari" height="30" width="40" /></a>
 <a href="https://fb.com/ons khiari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ons khiari" height="30" width="40" /></a>
 <a href="https://instagram.com/ons.kh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ons.kh_" height="30" width="40" /></a>
-<a href="https://dribbble.com/onskh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="onskh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
