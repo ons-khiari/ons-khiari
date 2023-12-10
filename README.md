@@ -7,22 +7,6 @@
   <img src="https://github.com/ons-khiari/ons-khiari/blob/main/gitt.gif?raw=true" alt="GIF">
 </div>
 
-### **🚀 Professional Journey:**
-Currently open to internship opportunities, I am eager to contribute my education and skills to the tech industry, aligning with organizations that share my enthusiasm for software engineering.
-
-### **🛠️ Technologies & Skills:**
-My coursework at ESPRIT has equipped me with a diverse skill set, including Symfony, JavaScript, Java, ReactJS, NodeJS, Angular, and Spring Boot. I am well-prepared for real-world software development challenges.
-
-### **✨ Excited for the Future:**
-I'm excited about the possibility of connecting with like-minded professionals, exploring new opportunities, and contributing to exciting developments in the tech landscape. Let's connect and embark on this journey together!
-
-📫 How to reach me **onskhiari2001@gmail.com**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216658115-017b0125-1bba-409d-b789-c04362c0adfb.gif" alt="GIF">
-</div>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ons-khiari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ons-khiari" height="30" width="40" /></a>
