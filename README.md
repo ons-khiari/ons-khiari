@@ -21,24 +21,24 @@
  </p> 
  
 ### Languages
-[![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)]
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)]
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)]
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)]
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)]
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)]
+[![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/ons-khiari)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/ons-khiari)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/ons-khiari)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/ons-khiari)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/ons-khiari)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/ons-khiari)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/ons-khiari)
 
 ### Technologies & Frameworks
-[![Symfony](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony)]
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]
-[![Javafx](https://img.shields.io/badge/javafx-black?style=for-the-badge&logo=javafx)]
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)]
+[![Symfony](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony)](https://github.com/ons-khiari)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/ons-khiari)
+[![Javafx](https://img.shields.io/badge/javafx-black?style=for-the-badge&logo=javafx)](https://github.com/ons-khiari)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/ons-khiari)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]
 
 ### OS
-[![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)]
-[![ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)]
+[![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://github.com/ons-khiari)
+[![ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)](https://github.com/ons-khiari)
 
 
 
