@@ -22,7 +22,6 @@
  
 ### Languages
 [![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/ons-khiari)
-[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/ons-khiari)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/ons-khiari)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/ons-khiari)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/ons-khiari)
