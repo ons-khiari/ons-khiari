@@ -34,7 +34,7 @@
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/ons-khiari)
 [![Javafx](https://img.shields.io/badge/javafx-black?style=for-the-badge&logo=javafx)](https://github.com/ons-khiari)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/ons-khiari)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/ons-khiari)
 
 ### OS
 [![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://github.com/ons-khiari)
