@@ -6,7 +6,7 @@
   Welcome to my profile</p>
  <p align="center"><span>I am <b>Ons Khiari</b></span>.<br>
  <i>
-   Currently learning to MERN.<br>
+   Currently learning MERN.<br>
    Open to all sorts of collaborations and internships !<br><br>
  </i>
    <a href="https://linkedin.com/in/ons-khiari">
