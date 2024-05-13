@@ -63,15 +63,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ons-khiari&theme=dark&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ons-khiari&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ons-khiari&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150" alt=" graph"  />
 </div>
-
-
-## Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ons-khiari&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="stats graph"  />
-</div>
-
----
-[![](https://visitcount.itsvg.in/api?id=ons-khiari&icon=0&color=0)](https://visitcount.itsvg.in)
 
