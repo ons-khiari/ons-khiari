@@ -14,9 +14,6 @@
   <a href="mailto:onskhiari2001@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
-   <a href="https://instagram.com/ons.kh_">
-        <img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white" alt="instagram">
-    </a>
  </p> 
  
 ### Languages
