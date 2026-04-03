@@ -48,7 +48,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ons-khiari&label=Profile%20views&color=9D4EDD&style=flat" alt="Profile Views" />
 </p>
-
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-</p>
