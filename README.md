@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/ons-khiari/ons-khiari/blob/main/banner.gif?raw=true" alt="Ons Khiari Banner" width="100%">
-</div>
+</div> -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=435&lines=Hello+World!;I'm+Ons+Khiari;Software+Engineer" alt="Typing SVG" />
