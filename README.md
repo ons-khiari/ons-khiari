@@ -16,7 +16,7 @@
 
 - 🚀 Software engineer building full-stack web applications
 - ⚛️ Frontend with **React**, **Next.js** and **TypeScript**
-- 🛠️ Backend with **Node.js / Express** and **.NET (C#)**
+- 🛠️ Backend with **Node.js / Express**, **Laravel** and **.NET (C#)**
 - 🗄️ Data with **PostgreSQL**, **MySQL**, **MongoDB** and **Prisma**
 - 📫 Reach me at **onskhiari2001@gmail.com**
 
@@ -25,8 +25,8 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nextjs,nodejs,express,dotnet,html&perline=9" alt="Languages and frameworks" /><br />
-  <img src="https://skillicons.dev/icons?i=css,sass,tailwind,bootstrap,postgres,mysql,mongodb,prisma&perline=8" alt="Styling and databases" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nextjs,nodejs,express,laravel,dotnet&perline=9" alt="Languages and frameworks" /><br />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,postgres,mysql,mongodb,prisma&perline=9" alt="Styling and databases" />
 </p>
 
 ## 📊 GitHub Stats
